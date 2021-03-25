@@ -1,4 +1,5 @@
 {
+    "buttons": [ "accept", "reject", "undo" ],
     "choice_style": "multiple",
     "force_stream_order": true,
     "custom_theme": {
