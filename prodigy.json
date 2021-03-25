@@ -1,0 +1,93 @@
+{
+    "choice_style": "multiple",
+    "force_stream_order": true,
+    "custom_theme": {
+	"cardMaxWidth": 1000,
+    },
+    "html_template": "
+<div class=\"source-uri\"><span><a href=\"{{uri}}\" target=\"_blank\">{{uri}}</a></span></div>
+{{{html}}}
+",
+    "global_css": "
+.prodigy-content { 
+  white-space: normal;
+  padding: 0;
+  margin-bottom: 10px;
+  font-size: 12pt !important;
+  text-align: left;
+  overflow: scroll;
+}
+
+div.trafilatura-content {
+  padding: 20px;
+}
+
+blockquote {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+ul.trafilatura {
+  margin-left: 1.5em;
+}
+
+table.trafilatura {
+  background-color: #eeeeee;
+  color: #555555;
+}
+
+section.comments {
+  background-color: #eeeeee;
+  color: #555555;
+}
+
+div.source-uri {
+  color: #6e6e6e;
+  padding: 3px 10px 3px;
+  font-size: 12px;
+  background: #f6f6f6;
+  text-align: center;
+}
+
+div.main-register {
+  width: 100%;
+  font-weight: bold;
+}
+
+div.subregister {
+  width: 100%;
+  padding-left: 2em;
+  display: none;
+}
+
+/* div.subregister > div::before {
+  content: \"↳\";
+  padding-left: 0.25em;
+  padding-right: 1em;
+} */
+
+/* div.c01141 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 5px;
+} */
+
+div.c01141 > div > div {
+  margin-bottom: 0;
+}
+
+div.has-subregister > div > input[type='checkbox'] + div > div::before {
+    margin-left: 5px;
+    margin-right: 20px;
+    content: '▶';
+}
+
+div.has-subregister > div > input[type='checkbox']:checked + div > div::before {
+    content: '▼';
+}
+
+div.has-subregister > div > input[type='checkbox'] {
+  display: none;
+}
+"
+}
