@@ -1,0 +1,9 @@
+Estadísticas sobre empresas de servicios de inversión (ESI)
+Esta publicación contiene información mensual sobre la actividad de las sociedades y agencias de valores y de las sociedades gestoras de cartera, con datos agregados del balance y de la cuenta de pérdidas y ganancias. La información está organizada por tipo de entidad, y se viene publicando desde 1991, tiempo en el que se ha visto afectada por varios cambios normativos, destacando el último cambio contable introducido por la Circular CNMV 7/2008, de diciembre de 2008.
+En la publicación trimestral se incluye otra información complementaria agregada, como el número de entidades, empleados, sucursales y representantes; un resumen agregado del margen de solvencia y de la rentabilidad (ROE) por tipo de entidad; así como información sobre el volumen de carteras gestionadas y asesoradas, y de las operaciones de valores en las que han intermediado.
+En 2009, fruto de la trasposición a la legislación española de la Directiva MiFID, se incorpora un nuevo tipo de ESI: las Empresas de asesoramiento financiero (EAFI), de las que se publican algunos datos agregados con periodicidad semestral.
+Además, se incluyen dos anexos que recogen datos individuales sobre la cuota de participación en el volumen de contratación en las bolsas de las sociedades y agencias de valores, y los datos más relevantes del balance y la cuenta de resultados de las ESI (excepto EAFI).
+A partir de abril de 2014 se introducen una serie de modificaciones en las estadísticas:deja de existir la diferenciación entre sociedades y agencias de valores miembros y no miembros de bolsa,desaparecen los capítulos 2 y 3 y se reforma el capítulo 5 de información complementaria.
+NOTAS METODOLÓGICAS:
+Reforma de las estadísticas 2014
+Cambios contables de diciembre de 2008

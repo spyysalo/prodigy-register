@@ -1,0 +1,4 @@
+Probablemente cierto, siempre y cuando SÓLO quieras un blog, pero a poco que quieras algo diferente: un Eventtos, un Zoomblog, o una ambiciosa red de blogs casi cualquier CMS del mercado se te va a quedar corto.
+El problema es que no todas las empresas pueden contar con un Rogelio Bernal, un Brian Alvey, un Pau Iglesias… con lo cual de todos los que comentan tal vez lo primero sería ver quiénes de ellos realmente tienen capacidad para desarrollar su propio CMS… y de los que queden habría que ver si realmente con su desarrollo van a aportar algo nuevo.
+Desde mi punto de vista desarrollar una herramienta propia es la manera más eficaz de dejar plasmado y transmitir eficazmente tu Know How… y eso ya es un motivo suficientemente poderoso para desarrollar tu propio «software de gestión», pero claro yo siempre hablo desde una perspectiva empresarial.
+Pienso que es algo inevitable… como tener oficina, al final terminas necesitándola.

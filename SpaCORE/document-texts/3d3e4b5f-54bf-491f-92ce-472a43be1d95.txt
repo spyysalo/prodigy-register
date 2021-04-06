@@ -1,0 +1,17 @@
+Conversor RGB + Audio a HDMI 1080p.
+ID: 21806 - REF: TCCONVRH
+IberiaPC
+Conversor RGB + Audio a HDMI 1080p. Especificaciones HDCP pass-through. Entrada: Componentes de Vídeo (YPbPr), 1xAudio. Salida: HDMI. Resolución Componentes de Vídeo: 480i, 480p, 576i, 576p, 720p, 1080i y 1080p. Rango de transmisión HDMI: 5Gbps. Soporta 165MHz/1.65Gbps por canal (4.65Gbps todos los canales) de ancho de banda. Soporta 8bit por canal (24bit todos los canales) deep color. Soporta 2 canales de audio descomprimido como LPCM.
+51,99 €
+Más información
+Especificaciones:
+Conversor RGB + Audio a HDMI 1080p.
+Especificaciones
+- HDCP pass-through.
+- Entrada: Componentes de Vídeo (YPbPr), 1xAudio.
+- Salida: HDMI.
+- Resolución Componentes de Vídeo: 480i, 480p, 576i, 576p, 720p, 1080i y 1080p.
+- Rango de transmisión HDMI: 5Gbps.
+- Soporta 165MHz/1.65Gbps por canal (4.65Gbps todos los canales) de ancho de banda.
+- Soporta 8bit por canal (24bit todos los canales) deep color.
+- Soporta 2 canales de audio descomprimido como LPCM.

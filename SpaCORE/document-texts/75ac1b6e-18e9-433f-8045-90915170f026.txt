@@ -1,0 +1,16 @@
+Nace Hostarting servicio para comparar hostings y dominios y conocer la opinion de la comunidad
+Ya venÃan avisando por twitter desde hace unas semanas y es que en Inventa Internet algo se estaba cociendo. Javier MartÃn e Ignacio de Miguel , algo estaban tramando no se trata ni mas ni menos de un comparador de precios y caracterÃsticas de los diferentes proveedores de hosting y dominios de EspaÃ±a.
+Por lo que he podido saber estos dÃas previos al lanzamiento que esa idea rondaba por sus cabezas ya era sabido en los cÃrculos de directores del sector hosting y asistentes habituales de ciertos eventos pero no era mucho mas conocido.
+El pasado
+dÃa del emprendedor perdÃ³n dÃa de la persona emprendedora de la Comunidad Valenciana Javier MartÃn vino a valencia como ponente a la charla organizada por Iniciador y le preguntÃ© de que iba la cosa… y en vez de contÃ¡rmelo, cogiÃ³ el portÃ¡til y me lo enseÃ±Ã³.
+Se trata de Hostarting un comparador de servicios de hosting y dominios de las principales empresas que ofrecen este tipo de servicios en EspaÃ±a.
+Desde primer momento me gustÃ³ mucho el diseÃ±o limpio, la facilidad de comparar y desde luego todo el componente social de la herramienta.
+Parten desde su lanzamiento con una buena base de datos, cuentan con mÃ¡s de 40 empresas que aportan informaciÃ³n y comparativas de mÃ¡s de 450 planes de alojamiento web y mÃ¡s de 370 de registros de dominio.
+Y como el propio Javier ha twitteado al final del dÃa de lanzamiento estÃ¡n recibiendo muchas peticiones de empresas para incluirse en el sistema.
+AdemÃ¡s de la comparativa de los datos neutros de los distintas empresas dispone de una capa social donde se pueden puntuar y comentar tanto las empresas como cada uno de los planes y servicios de hosting o planes de dominios.
+Lo que nos permite filtrar no solo por precio sino por las valoraciones de los usuarios y ademÃ¡s conocer las opiniones de usuarios, otras empresas y profesionales que han hecho uso de estos servicios.
+En los comentarios cabe la posibilidad de que se enfoquen mas en negativo que en positivo, tema que tendrÃ¡n que vigilar de cerca ya que es habitual en este tipo de servicios como el hosting que solo se comente sobre ellos cuando se ha tenido algÃºn problema.
+En las votaciones el riesgo es menor porque no se puede puntuar en negativo, alto o bajo pero solo en positivo.
+A principios de semana Javier contactÃ³ conmigo para ser betatester del servicio durante estos Ãºltimos dÃas previos a su lanzamiento oficial anunciado en loogic y encantado he participado en este Ãºltimo proceso de refinado y aportando comentarios y valoraciones de los servicios que conozco.
+Un servicio comparativo como este, va a aportar bastante luz y competencia sana en el sector ya que hasta ahora esa informaciÃ³n gde opiniÃ³n de usuarios y administradores de sistemas se repartÃa por foros tÃ©cnicos y y Ãºltimamente en preguntas y conversaciones de twitter como ha pasado estos dÃas previos.
+Como le he visto twittear a Juan Luis Hortelano en mas de una ocasiÃ³n el hosting es un Â«malÂ» necesario con el que hay que convivir.
