@@ -23,8 +23,9 @@ REGISTER_HIERARCHY = [
         Register('NA', 'Other narrative (e.g. fiction, magazine article)', []),
     ]),
     Register('IP-main', 'Informational persuasion (e.g. editorial, persuasive essay)', [
+        Register('IP-ds', 'Description with intent to sell', []),
         Register('IP-ed', 'Editorial / news+opinion blog', []),
-        Register('IP', 'Other informational persuasion (e.g. persuasive essay, description with intent to sell)', []),
+        Register('IP', 'Other informational persuasion (e.g. persuasive essay)', []),
     ]),
     Register('IN-main', 'Informational description (e.g. encyclopedia or research article, FAQ)', [
         Register('IN-en', 'Encyclopedia article', []),
@@ -84,7 +85,9 @@ function tweakOptionDisplay(id, isMainRegister, hasSubRegister) {
   var div = checkbox.parentElement
   // Hide keyboard shortcut divs
   var kbShortcut = checkbox.nextSibling.nextSibling
-  kbShortcut.style.display = 'none'
+  if (kbShortcut !== null) {
+    kbShortcut.style.display = 'none'
+  }
   // Add 'main-register', 'subregister' and 'has-subregister' classes for CSS
   div = wrapInDiv(div)    // prodigy resets classes
   if (isMainRegister) {
