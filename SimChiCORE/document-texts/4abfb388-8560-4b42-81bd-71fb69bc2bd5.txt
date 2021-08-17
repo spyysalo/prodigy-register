@@ -1,0 +1,128 @@
+-
+{{ item_currency }} {{ priceFormat(item.valid_price) }}
+{{ item_currency }}{{ priceFormat(item.invalid_price) }}
+{{ limitText }}
+礼卡专享价是部分商品拥有的特殊优惠价格；
+购买礼卡专享价商品时，若在结算时使用电子礼卡抵扣支付，且礼卡余额足够支付订单中所有礼卡专享价商品的专享价总和，则可以启用礼卡专享价；
+不使用礼卡支付，或礼卡余额不满足上一条所述要求时，将无法启用礼卡专享价，按照普通售价计算，但您仍然可以购买这些商品；
+在购买礼卡专享价商品时，若余额不足，可以在购物车或结算页中点击“充值”按钮对礼卡进行购买和充值；
+商品若拥有礼卡专享价，会显示“专享”的特殊价格标记；
+如有疑问，请随时联系客服；
+礼卡专享价相关规则最终解释权归亚米网所有。
+跨店满$69免运费
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 有货
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 暂时缺货
+{{ expectedTimeTex }}
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 该地区无法配送
+已收藏 收藏
+由亚米精选并发货
+由以下商家销售
+跨店满$69免运费
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 有货
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 暂时缺货
+{{ expectedTimeTex }}
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 该地区无法配送
+已收藏 收藏
+由亚米精选并发货
+由以下商家销售
+跨店满$69免运费
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 有货
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 暂时缺货
+{{ expectedTimeTex }}
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 该地区无法配送
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 有货
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 暂时缺货
+{{ expectedTimeTex }}
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 该地区无法配送
+已收藏 收藏
+由亚米精选并发货
+由以下商家销售
+由亚米精选并发货
+由以下商家销售
+由亚米精选并发货
+由以下商家销售
+跨店满$69免运费
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 该地区无法配送
+送至 {{ zipcodeData.country + ', ' + zipcodeData.city}}, {{ zipcodeData.country}}, {{ zipcodeData.zipcode }} 有货
+已收藏 收藏
+手机扫码开团
+由亚米精选并发货
+由以下商家销售
+接收方式
+|品牌||京东图书||品牌属地||中国|
+|ISBN||9787513640824||著者||赢商网研究中心|
+|出版社||中国经济出版社||印刷时间||2016-01-01|
+|用纸||胶版纸||包装||平装|
+|出版时间||2016-01-01||页数||406|
+|品牌||京东图书||品牌属地||中国|
+|ISBN||9787513640824||著者||赢商网研究中心|
+|出版社||中国经济出版社||印刷时间||2016-01-01|
+|用纸||胶版纸||包装||平装|
+|出版时间||2016-01-01||页数||406|
+|版次||1|
+产品价格、包装、规格等信息如有调整，恕不另行通知。我们尽量做到及时更新产品信息，但请以收到实物为准。使用产品前，请始终阅读产品随附的标签、警告及说明。
+详细条款请参阅我们的Terms of Use.
+100%正品保障
+30天退换保障
+跨店满$69免运费
+最优售后
+无需转运
+清关无忧
+由亚米从中国精选并集合各大优秀店铺的商品至亚米中国整合中心，合并包裹后将一次跨国邮寄至您的地址。跨店铺包邮门槛低至$69。您将在多商家集合提供的广泛选品中选购商品，轻松享受跨店铺包邮后的低邮费。
+亚米中国集运 Consolidated Shipping 运费$9.99（订单满$69 包邮）
+下单后1-2个工作日内发货。
+提供30天内退换保障。产品需在全新未使用的原包装内，并附有购买凭据。产品质量问题、或错发漏发等由商家造成的失误，商家将进行补发,或退款处理。其它原因造成的退换货费用由客户自行承担。
+资本论(全彩珍藏版)
+回归分析：因变量统计模型
+魔鬼经济学（套装共4册 京东定制礼盒）
+【2019年诺贝尔经济学奖】贫穷的本质:我们为什么摆脱不了贫穷
+半小时漫画经济学:生活常识篇(漫画科普开创者二混子新作!全网粉丝700万!)
+反常识(你对世界的理解,正在阻碍你对世界的进一步理解)
+周期
+就业、利息和货币通论
+AI极简经济学
+第一本经济学
+经济学思维
+机器与人:埃森哲论新人工智能
+经济学原理(第7版)(典藏版)
+数据资本时代
+小岛经济学:鱼、美元和经济的故事
+认识经济
+数文明 大数据如何重塑人类文明、商业形态和个人世界
+AI·未来
+献金政治:总统背后的银行家
+石油王朝沉浮录
+理查德·塞勒经典著作系列:助推+错误的行为+赢家的诅咒(套装共3册)
+0-3岁婴儿睡前故事（套装共4册）
+嫌疑人X的献身（2014版）
+分好类 超好背 15000英语单词便携口袋书，英语口语词汇学习，英语入门（双速学习版）
+岛上书店【荐书联盟推荐】
+恶意(2016版)
+海润阳光·幼儿学前专注力训练100图(套装共4册)
+摆渡人（精装插图纪念版）
+中国科幻基石丛书·三体（套装1-3册）
+成语故事（儿童注音版 套装全4册）
+聂作平中国神话故事（注音全彩修订本 套装共3卷）
+名著名译丛书 源氏物语（套装上下册）
+新航道 读故事记单词 新GRE词汇
+余华作品:活着
+你要去相信没有到不了的明天(2018年全新增订本京东100%签名版+作者书信)
+牧羊少年奇幻之旅
+哲学的慰藉(阿兰·德波顿文集)
+小猪佩奇动画故事书(第2辑)(10册套装)
+阿勒泰的角落
+局外人(诺贝尔文学奖获奖者加缪代表作柳鸣九经典全译本)
+撒哈拉秘密基地
+重口味心理学·3
+让你内心强大的气场心理学
+邦臣小红花：0~3岁早教必读（套装共30册）
+德国经典专注力挑战（套装共4册）
+告诉我们你的想法
+订单咨询、售后问题请联系客服解决哦~~
+请选择反馈标签（至少选择一个）
+请详述你的问题
+全部
+已买
+有图
+举报
+删除

@@ -1,0 +1,26 @@
+昨天我们已经成功初始化一个 Symfony 项目，今天我们将在此基础上继续添砖加瓦。
+2020-04-12 补充：已经发布对应的 Symfony 5 精简版教程，建议对比观看。
+在此之前，我们先明确一下我们要实现什么功能，在开始开展具体的代码工作前先明确自己的目标是一个节省时间的好习惯。我们的需求如下：
+Symfony 的官方教程其实已经非常的详尽，但却不太亲近新手。新手想要完全理解 Symfony 文档的内容，需要对互联网开发有一定工作经验才行，否则总是有一种看不太明白，看完了也不不知道从哪儿开始的感觉。如果你有这种感觉，希望这篇文章能让你快速上手，本篇的目的，就是为了让 Symfony 新手，甚至是 PHP 新手能快速开始一个具体的项目。
+本篇系列重点是为了带领新手使用 Symfony 框架，如果您想了解的是 Symfony 组件，可阅读我翻译 Symfony 项目组老大的系列教程《使用 Symfony 组件创建自己的 PHP 框架》
+本篇系列源代码位于 https://coding.net/u/chrisyue/p/symfony2-framework-tutorial/git，不过因为源代码已经包含各种添加修改重构之后的代码，看不到中间过程，建议在所有章节完成之后看，或者作为日后的参考。
+这篇文章是 Symfony 项目组老大 Fabien Potencier 的又一系列教程。一般来说，Fabien 的文章都会有很多他自己对框架以及编程的思考，有很多值得大家学习的地方。以前我也翻译过他的另一系列《使用 Symfony 组件创建自己的框架》，有兴趣可以看看，我相信对大家特别是正在学习 sf 框架的同学会有很多的帮助。
+英文原文地址：https://symfony.com/doc/current/create_framework/dependency_injection.html
+在前一篇教程的最后，我们扩展了 Symfony 的
+HttpKernel 类，而将
+Simplex\Framework的代码清空了。让我们把前端控制器的一些代码挪过来：
+英文原文地址：https://symfony.com/doc/current/create_framework/http_kernel_httpkernel_class.html
+如果你正在使用我们的框架，你或许想让框架支持自定义错误页面。目前，我们可以处理 404 和 500 错误，不过此功能都是硬编码在框架里面的。但让错误信息变得可自定义也非常容易：分发一个新事件然后监听它。要做到这点也就意味着监听器（listener）需要调用一个控制器。
+但要是这个控制器也抛异常，那不是会发生无限循环调用？应该有更方便的方法是吧。
+英文原文地址：https://symfony.com/doc/current/create_framework/http_kernel_httpkernelinterface.html
+我曾在第二章的结论里谈到过，使用 Symfony 组件库的好处之一是：让所有使用他们的的框架或者应用程序都有很好的互用性（interoperability, 译者注：这个单词并不知道准确的对应的中文。举一个例子，如果电视机插头按照国内标准的两线插头去生产，那么国内所有的两线插座都可以给这台电视机供电，这就是 interoperability，简单说，就是一种让各种不同的模块或者系统在一起工作的能力）。为了向此目标再迈出一大步，我们得让框架实现
+HttpKernelInterface 这个接口：
+英文原文地址：https://symfony.com/doc/current/create_framework/event_dispatcher.html
+我们的框架依然缺少作为好框架必备的一个特点：扩展性。拥有扩展性意味着，开发者可以很方便的通过拦截（hook）的方式，修改请求被处理的过程。
+英文原文地址：https://symfony.com/doc/current/create_framework/unit_testing.html
+一些细心的读者已经发现，前一章完成的框架里还存在难以发现却很严重的bug。创建框架，你必须得保证它能像当初设计的那样工作，否则的话使用它做出来的程序都会出现它导致的问题。当然好消息是：如果你修改了一个bug，你就等于修改了一大堆应用程序。
+英文原文地址：https://symfony.com/doc/current/create_framework/separation_of_concerns.html
+目前我们的框架还有一个不足之处：当我们要创建新的网站的时候，我们都需要将
+front.php 的代码复制一份。虽然 40 行代码并不是很多，但是如果我们能将这些代码写成一个合适的类，将会更给力一些，比如更好的复用性以及更好的可测试性。
+英文原文地址：https://symfony.com/doc/current/create_framework/http_kernel_controller_resolver.html
+可能你觉得我们的框架已经非常的稳定了，但其实我们仍然可以继续改进它。

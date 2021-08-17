@@ -1,0 +1,75 @@
+原创|Solidworks资讯|编辑：李燕|2019-11-07 10:31:53.017|阅读 424 次
+概述：达索SolidWorks旗下热门的Demo示例、文章教程、视频资源等学习资源合集。
+# 周年庆正版采购有优惠，点击咨询 # # 31款JAVA开发必备控件和工具 #
+相关链接：
+SolidWorks旨在为每一个工程师的桌面上提供一套具有生产力的实体模型设计系统。SolidWorks软件是世界上第一个基于Windows开发的三维CAD系统，遵循易用、稳定和创新三大原则帮助设计师缩短设计时间，使产品快速、高效地投向市场。
+今天小编为大家整理了达索SolidWorks旗下热门的Demo示例、文章教程、视频资源等学习资源，同时将我们工程师工作常用的小技巧分享给大家。您也可在这里找到SolidWorks 2020的所有新功能，帮助您更快的从设计到制造新产品。更多下载及资讯也可以在慧都3D设计SolidWorks中找到，点击此处了解最新动态>>
+DEMO示例（可下载）
+SolidWorks 模型：M9刺刀
+SolidWorks 模型：干电池
+SolidWorks 模型：智能手机
+SolidWorks 模型：酷帅的卡车
+SolidWorks 模型：码垛机器人
+SolidWorks 模型：激光切割咖啡胶囊抽屉
+文章教程
+揭秘：Composer核心操作
+揭秘：PDM中的冷存储模式
+揭秘：轴承的唯一制作方法
+揭秘：PCB 零部件创建流程
+揭秘：Composer如何实现模型更新
+揭秘：如何使用SolidWorks MBD定义轴
+揭秘：如何确定3D中工程图切向或轮廓边的尺寸
+SolidWorks实用技巧：库特征制作
+SolidWorks实用技巧：焊件穿透点选择
+SolidWorks实用技巧：焊件的剪裁延伸
+技巧演示：轻松地组织3D注释
+技巧演示：solidworks 工程图派生
+技巧演示：快速打开大型装配体工程图
+技巧演示：调整出装配图工程图时的零件序号
+技巧演示：既快速打开大型装配体模型又能执行标注操作
+视频资源（可下载）
+DWG图纸如何导入SolidWorks |操作视频
+SolidWorks如何轻松添加零件序号 |操作视频
+SolidWorks如何让设计树更有层次感 |操作视频
+槽口椭圆等不规则的螺旋线是如何绘制的 |操作视频
+SolidWorks Simulation中如何使用2D简化 |操作视频
+SolidWorks零部件间的配合关系怎么表达最好 |操作视频
+SolidWorks Simulation中如何计算“轴承”的承载力 |操作视频
+SolidWorks如何使用装配体高级配合关系提高装配速度 |操作视频
+SolidWorks探讨运动装配关系的配合方式：线性耦合与限制配合 |操作视频
+达索SolidWorks 2020抢先看
+SolidWorks 2020新增功能之性能提升
+SolidWorks 2020新增功能之简化的工作流程
+SolidWorks 2020新增功能之互联设计生态系统
+SolidWorks 2020 ECAD 十大新功能集锦
+SolidWorks 2020 数据管理十大新功能集锦
+SolidWorks 2020 从设计到制造十大新功能集锦
+技巧分享
+SolidWorks常用小妙招！
+SolidWorks 30个小技巧分享！
+Solidworks 高级用户必备的十大技巧！
+SolidWorks最低电脑配置要求-官方认证
+小窍门：SolidWorks大型装配体卡顿问题解决（一）
+小窍门：SolidWorks大型装配体卡顿问题解决（二）
+SolidWorks最新动态请持续关注慧都网站解决方案目录下的3D设计（SolidWorks）
+欢迎联系我们的技术工程师微信：19923329470，邀您进入SolidWorks重庆技术交流群
+想了解 正版SolidWorks价格？可以联系我们的 慧都客服~
+本站文章除注明转载外，均为本站原创或翻译。欢迎任何形式的转载，但请务必注明出处、不得修改原文相关链接，尊重他人劳动成果
+好文不易，鼓励一下吧！
+登录 慧都网发表评论
+[官方视频教程]DevExtreme ASP.NET MVC：图表入门指南
+报表控件ActiveReports视频教程： 产品简介
+【官方视频教程】Kendo UI Angular：入门指南
+表格开发控件SpreadJS视频教程：单元格格式系列操作附源码
+如何为您的组织选择最佳的API测试解决方案
+案例探讨：如何使用ThBrain添加新年愿望
+行业领先的界面控件开发包，帮助企业构建卓越应用！
+为Windows Forms平台创建具有影响力的业务解决方案，高性价比WinForms界面控件套包。
+高效MVVM开发模式，WPF界面解决方案首选工具，帮助企业实现酷炫动效界面。
+新一代自助大数据分析BI工具，自由释放数据潜能
+你会用SOLIDWORKS设计注塑模具吗？ 您是否知道SOLIDWORKS Plastics提供了一套全面的教程？教程如何找到呢？快来看看吧！
+本站的模型资源均免费下载，登录后即可下载。模型仅供学习交流，勿做商业用途
+SOLIDWORKS Simulation彩色图提供了显示“最大注释”弹出框的功能，该弹出框可快速指出整个图中的最大值。启用弹出效果最简单的方法是单击颜色图的顶部编号，然后选择注释图标。
+SOLIDWORKS 2021新增了用于锁定槽配合的旋转的功能，类似于自SOLIDWORKS 2014起提供的同心配合的锁定旋转。可以在配对PropertyManager中找到锁定旋转选项，或者通过右键单击FeatureManager设计树中的槽配合来找到。
+微信扫码登录
+福利更多、资源更多
